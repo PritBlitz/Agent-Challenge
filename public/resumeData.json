@@ -1,121 +1,127 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Pritish Biswas",
+    "occupation": "Web Developer",
+    "description": "Results-driven Web Developer with expertise in HTML, CSS, JavaScript, and emerging AI applications in web development.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Pritish Biswas, a passionate Web Developer with strong skills in HTML, CSS, JavaScript, and backend technologies like Node.js and Express.js. I have a strong problem-solving mindset and an eye for detail, ensuring seamless user experiences in my projects. As an active contributor to open-source programs like GSSoC and SSOC, I enjoy collaborating with the developer community. My experience includes real-time monitoring solutions, AI-powered healthcare assistants, and environmental monitoring projects. I'm always eager to learn and innovate!",
+    "contactmessage": "Get in touch with me for collaboration and exciting projects!",
+    "email": "pritish9801.edu@gmail.com",
+    "phone": "+91 9801334862",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "Bhubaneshwar",
+      "state": "India",
+      "zip": ""
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://github.com/PritBlitz",
+    "resumedownload": "https://www.linkedin.com/in/pritish-biswas-pb24/",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/pritish-biswas-pb24/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/PritBlitz",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "hackerrank",
+        "url": "https://www.hackerrank.com/profile/PritBlitz",
+        "className": "fa fa-hackerrank"
+      },
+      {
+        "name": "cloudskillsboost",
+        "url": "https://www.cloudskillsboost.google/public_profiles/128e795f-73ab-4b3b-9744-eeb8d86e33ae",
+        "className": "fa fa-google"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Technical Skills & Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Institute Of Technical Education and Research",
+        "degree": "Bachelor of Technology, Computer Science And Engineering",
+        "graduated": "Present",
+        "description": "CGPA - 9.26"
       }
     ],
-    "work": [
-      {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
-      }
-    ],
+    "work": [],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "HTML",
         "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
       },
       {
         "name": "Python",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "MongoDB",
+        "level": "75%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Firebase",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Environmental Eye",
+        "category": "Disaster Monitoring",
+        "image": "environmental_eye.jpg",
+        "url": ""
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "EchoSphere",
+        "category": "Real-time Video Communication",
+        "image": "echosphere.jpg",
+        "url": ""
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Women Safety (SIH1605)",
+        "category": "Women’s Security",
+        "image": "women_safety.jpg",
+        "url": ""
+      },
+      {
+        "title": "NURA (Neural Unified Recognition Assistant)",
+        "category": "AI-powered Healthcare",
+        "image": "nura.jpg",
+        "url": ""
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Pritish is a highly skilled developer with an eye for detail. His projects show deep technical expertise and problem-solving skills.",
+        "user": "Open Source Community"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Working with Pritish has been an excellent experience. His ability to quickly learn and implement complex solutions is impressive!",
+        "user": "Hackathon Teammate"
       }
     ]
   }
